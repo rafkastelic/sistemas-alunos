@@ -1,4 +1,3 @@
-
 let numeroDeAlunos = 10;
 
 let contador = 0;
@@ -10,7 +9,5 @@ if (contador == 0){
 }else if(contador % 2 == 0){
     console.log ("O número " + contador + " é Par")
 }else{
-    console.log(`O número ${contador} é Impar`)
-        }
-
-    }
+    console.log(`O número ${contador} é Impar`) }
+}
